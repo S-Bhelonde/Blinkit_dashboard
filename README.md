@@ -25,28 +25,19 @@ Interactive filters and slicers
 🏬 Outlet Type Comparison: Supermarkets vs Grocery stores with sales, item count, ratings, and visibility
 
 🧠 Features:
-Interactive filters by:
+- Interactive filters by:
+  Outlet Location Type
+  Item Type
+  Outlet Size
+- Tabbed view for:
+  Total Sales
+  Average Sales
+  Number of Items
+  Average Rating
+- Pie & bar charts for easy comparison of:
+  Fat content by sales
+  Outlet size and item contribution
+- Line chart for outlet establishment over years
 
-Outlet Location Type
+  <img width="602" height="340" alt="image" src="https://github.com/user-attachments/assets/b519cbad-3fdb-4591-a200-35467ad00446" />
 
-Item Type
-
-Outlet Size
-
-Tabbed view for:
-
-Total Sales
-
-Average Sales
-
-Number of Items
-
-Average Rating
-
-Pie & bar charts for easy comparison of:
-
-Fat content by sales
-
-Outlet size and item contribution
-
-Line chart for outlet establishment over years
